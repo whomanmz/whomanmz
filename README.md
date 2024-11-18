@@ -25,3 +25,7 @@ I'm a Computer Science Student at (UWO), Musician, And Content Creator (Video Ed
 <img src="illustrator.png" width="35" title="HTML5"/>
 </span>
 
+---
+
+<div align="center">CONTACT</div>
+<div align="center"><a href="mailto:whoman.was.here@gmail.com">Email</a></div>
