@@ -9,6 +9,10 @@ I'm a Computer Science Student at (UWO), Musician, And Content Creator (Video Ed
 
 ### LANGUAGES AND TOOLS 
  <span>
-<img src="html.png" width="45" title="HTML5"/>
+<img src="html-5.png" width="45" title="HTML5"/>
+<img src="css-3.png" width="45" title="HTML5"/>
+<img src="js.png" width="45" title="HTML5"/>
+<img src="python.png" width="45" title="HTML5"/>
+<img src=".png" width="45" title="HTML5"/>
 
 </span>
